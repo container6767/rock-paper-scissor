@@ -1,1 +1,1 @@
-This is my second javascript project a rock paper scissor game.
+THis is a rock paper scissor game i made as my second javascript project.
